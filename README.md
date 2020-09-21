@@ -4,8 +4,8 @@
 <br /><b>LINKS TO REPOSITORIES:</b>
 <br />
 
-<br />1. <a href="https://github.com/sbedens/DosAgileBPA---Project-1"> Project 1 Repo --> https://github.com/sbedens/DosAgileBPA---Project-1</a>
-<br />2. Project 2 Repo --> https://github.com/uuddinctec/DosAgileBPA---Project-2
+<br /><a href="https://github.com/sbedens/DosAgileBPA---Project-1">1.  Project 1 Repo</a>
+<br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2">2. Project 2 Repo </a> 
 <br />
 <br />
 <br /><b>LINKS TO POWERPOINT PRESENTATIONS:</b>
