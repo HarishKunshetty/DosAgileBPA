@@ -7,7 +7,7 @@
 <br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2" target="_blank">2. Project 2 Repo </a> 
 <br />
 <br />
-<br /><b>#LINKS TO POWERPOINT PRESENTATIONS:</b>
+<br /><b>#LINKS TO ARTIFACTS (POWERPOINT PRESENTATIONS):</b>
 <br /><a href="https://github.com/sbedens/DosAgileBPA---Project-1/blob/master/CTEC%20OPM%20Project%201%20Artifact%20(1).pdf" target="_blank">1. Project 1 </a>
 <br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2/blob/master/CTEC-CBP-PP2-supporting-artifacts_0921submission.pdf" target="_blank"> 2. Project 2 </a>
 <br />
