@@ -1,5 +1,5 @@
 # DosAgileBPA
-<br /> This is the Department of State Agile BPA Proposal Submission from CTEC.
+<br /> 2020921 4:00pm EST This is the Department of State Blanket Purchase Agreement (BPA) for Digital Transformation and Modernization proposal submission from CTEC.
 
 <br /><b>LINKS TO REPOSITORIES:</b>
 <br />
