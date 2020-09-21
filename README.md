@@ -8,7 +8,3 @@
 <br />Project 2 Repo --> https://github.com/uuddinctec/DosAgileBPA---Project-2
 <br />
 <br />
-<br /><b> LINKS TO PPT</b>
-<br />
-<br />
-<br />
