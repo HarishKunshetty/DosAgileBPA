@@ -1,5 +1,5 @@
 # DosAgileBPA
-<br /> This is the Proposal Submission from CTEC.
+<br /> This is the DosAgileBPA Proposal Submission from CTEC.
 
 <br /><b>LINKS TO REPOSITORIES:</b>
 <br />
