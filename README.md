@@ -10,4 +10,4 @@
 <br />
 <br /><b>NOTE:</b>
 <br />
-This code will not compile or deploy as we have scrubbed all the code with their connection strings, environments, and overall configuration.
+For security purposes, these code repositories will not compile or deploy as we have scrubbed all the code with their connection strings, environments, and overall configuration.
