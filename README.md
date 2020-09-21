@@ -12,7 +12,7 @@
 <br />
 
 <br />1. Project 1 Repo --> https://github.com/sbedens/DosAgileBPA---Project-1
-<br />2. Project 2 Repo --> https://github.com/uuddinctec/DosAgileBPA---Project-2
+<br />2. Project 2 Repo --> https://github.com/uuddinctec/DosAgileBPA---Project-2/blob/master/CTEC-CBP-PP2-supporting-artifacts_0921submission.pdf
 <br />
 <br />
 
