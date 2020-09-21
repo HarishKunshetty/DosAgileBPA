@@ -8,3 +8,6 @@
 <br />Project 2 Repo --> https://github.com/uuddinctec/DosAgileBPA---Project-2
 <br />
 <br />
+<br /><b>NOTE:</b>
+<br />
+This code will not compile or deploy as we have scrubbed all the code with their connection strings, environments, and overall configuration.
