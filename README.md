@@ -1,7 +1,7 @@
 # DosAgileBPA
 <br /> This is the Proposal Submission from CTEC.
 
-<br /><b>LINKS TO REPOS</b>
+<br /><b>LINKS TO REPOSITORIES</b>
 <br />
 <br />
 <br />Project 1 Repo --> https://github.com/sbedens/DosAgileBPA
