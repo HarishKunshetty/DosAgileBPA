@@ -1,17 +1,17 @@
 # DosAgileBPA
-<br /> 2020921 4:00pm EST This is the Department of State Blanket Purchase Agreement (BPA) for Digital Transformation and Modernization proposal submission from CTEC.
+<br /> #2020921 4:00pm EST This is the Department of State Blanket Purchase Agreement (BPA) for Digital Transformation and Modernization proposal submission from CTEC (RFP# 19AQMM20R0240).
 
-<br /><b>LINKS TO REPOSITORIES:</b>
+<br /><b>#LINKS TO REPOSITORIES:</b>
 <br />
 <a href="https://github.com/sbedens/DosAgileBPA---Project-1">1.  Project 1 Repo</a>
 <br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2">2. Project 2 Repo </a> 
 <br />
 <br />
-<br /><b>LINKS TO POWERPOINT PRESENTATIONS:</b>
+<br /><b>#LINKS TO POWERPOINT PRESENTATIONS:</b>
 <br /><a href="https://github.com/sbedens/DosAgileBPA---Project-1/blob/master/CTEC%20OPM%20Project%201%20Artifact%20(1).pdf">1. Project 1 </a>
 <br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2/blob/master/CTEC-CBP-PP2-supporting-artifacts_0921submission.pdf"> 2. Project 2 </a>
 <br />
 <br />
-<br /><b>NOTE:</b>
+<br /><b>#NOTE:</b>
 <br />
 For security purposes, these code repositories will not compile or deploy as we have scrubbed all the code with their connection strings, environments, and overall configuration.
