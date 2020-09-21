@@ -1,5 +1,5 @@
 # DosAgileBPA
-<br /> <b>#SEPTEMBER 21, 2020 4:00PM EST:</b><br /> This is the Department of State Blanket Purchase Agreement (BPA) for Digital Transformation and Modernization proposal submission from CTEC (RFP# 19AQMM20R0240).
+<br /> <b>#SEPTEMBER 21, 2020 3:00PM EST:</b><br /> This is the Department of State Blanket Purchase Agreement (BPA) for Digital Transformation and Modernization proposal submission from CTEC (RFP# 19AQMM20R0240).
 
 <br /><b>#LINKS TO REPOSITORIES:</b>
 <br />
