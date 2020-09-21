@@ -3,8 +3,8 @@
 
 <br /><b>#LINKS TO SOURCE CODE REPOSITORIES & ARTIFACTS:</b>
 <br />
-<a href="https://github.com/sbedens/DosAgileBPA---Project-1" target="_blank">1.  Project 1 Repo</a>
-<br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2" target="_blank">2. Project 2 Repo </a> 
+<a href="https://github.com/sbedens/DosAgileBPA---Project-1" target="_blank">1.  Project 1 Repository</a>
+<br /><a href="https://github.com/uuddinctec/DosAgileBPA---Project-2" target="_blank">2. Project 2 Repository </a> 
 <br />
 <br />
 <br /><b>#LINKS TO POWERPOINT PRESENTATIONS:</b>
